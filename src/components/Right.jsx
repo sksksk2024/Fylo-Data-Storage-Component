@@ -5,9 +5,9 @@ function Right() {
       <div className='h-full 3xs:w-256W lg:w-464W relative bg-dark-blue py-16P 3xs:pb-48P lg:pb-16P 3xs:px-32P rounded-10BR 3xs:static lg:relative top-26I'>
 
         <div className="flex 3xs:flex-col 3xs:justify-center lg:flex-row lg:justify-between relative">
-          <p className="text-sm 3xs:mb-16M lg:mb-0 text-center">
+          <h1 className="text-sm 3xs:mb-16M lg:mb-0 text-center">
             You’ve used <span className="text-white">815 GB</span> of your storage
-          </p>
+          </h1>
 
           {/* White pop up!!! */}
           {/* var 1 */}
